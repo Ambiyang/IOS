@@ -1,0 +1,10 @@
+#### unlocker  
+1、以管理员身份运行C:\Windows\System32\cmd.exe 文件
+
+2、需要把编码修改为简体中文chcp 936
+
+3、cd unlock path (cd xxx\xxx\unlocker208)
+
+4、win-install
+
+#### 更改主机时间到2016/6/5 顺利完成安装
