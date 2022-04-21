@@ -18,4 +18,7 @@ sudo gem install -n /usr/local/bin cocoapods -v 1.9.3
 git reset --hard 'master没乱之前的版本号'.  
 
 强制回滚远程分支
-git push -f origin master 强制推送当前分支到远程master
+git push -f origin master 强制推送当前分支到远程master　　
+
+＃＃＃regular. 
+https://blog.csdn.net/h610443955/article/details/81079439
