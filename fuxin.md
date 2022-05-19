@@ -18,4 +18,11 @@
 - textview multiline fix:use textviewdelegate.textviewdidchange to inform cell update. tableview.beginUpdates,tableview.endUpdates(old way).now use tableview.performBatchUpdates
 - navibar tint will be inheritted by all barbuttonitems and so on
 - tableview selection style ib available
+- system control language can be set by localization.
+- delete button text also can be set by delegate methods.
+- editbuttonitem:setEditing is called on click. image and title can only be set by one.
+- separator inset(nei bian ju)
+- editingStyleForRowAt
+- swipe delete: implement tableview(commit:forrowat:)
+- shouldindentwhileeditingrowat
 - 
