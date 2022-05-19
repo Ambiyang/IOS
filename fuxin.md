@@ -5,10 +5,17 @@
 - stackview spacing is the minimum space
 - image dark mode: appearance->any,dark will enable modes in assets
 - button size:configuration -> point size or scale
-- button coloe: tint color or foreground
+- button color: tint color or foreground
 - api para has to be encoded af provides method to solve this problem
 - tableview/cell:row height,
 - cell button image change can be set in awakeFromNib
 - button background color changes if clicked to disable color change tint to clear color
 - add event:addAction/addtarget
+- style:inset group
+- navibar:prefer large titles will change navibar title to big theme
+- barbuttonitem size:navigationItem.rightBarButtonItem?.Image=(systemName:,withConfiguration:),size can be specified by withConfiguration
+- text view:a subclass of scrollview,so normally will disable scrolling/indicators.
+- textview multiline fix:use textviewdelegate.textviewdidchange to inform cell update. tableview.beginUpdates,tableview.endUpdates(old way).now use tableview.performBatchUpdates
+- navibar tint will be inheritted by all barbuttonitems and so on
+- tableview selection style ib available
 - 
