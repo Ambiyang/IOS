@@ -1,0 +1,14 @@
+- command + d = option + click: copy ui item
+- pdf vector image no need @2,@3 size image
+- button text can change line ,label cannot
+- check layout inferred to use constraints
+- stackview spacing is the minimum space
+- image dark mode: appearance->any,dark will enable modes in assets
+- button size:configuration -> point size or scale
+- button coloe: tint color or foreground
+- api para has to be encoded af provides method to solve this problem
+- tableview/cell:row height,
+- cell button image change can be set in awakeFromNib
+- button background color changes if clicked to disable color change tint to clear color
+- add event:addAction/addtarget
+- 
