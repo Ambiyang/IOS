@@ -25,4 +25,4 @@
 - editingStyleForRowAt
 - swipe delete: implement tableview(commit:forrowat:)
 - shouldindentwhileeditingrowat
-- 
+- uibutton.setTitle change text without changing font size? -> Change your button Style from Plain to Default
