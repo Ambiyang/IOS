@@ -12,3 +12,6 @@ https://capibara1969.com/933/
 ## youtube
 m:https://m.youtube.com/?persist_app=1&app=m
 pc:https://www.youtube.com/?persist_app=1&app=desktop
+
+## firebase crash log
+https://ios-docs.dev/firebase-crashlytics/#1_Firebase
